@@ -5,7 +5,7 @@ DevPipe is a responsive frontend orchestration workbench engineered with React. 
 
 ## Preview
 ------------------------------------------------------------------------------------------
-![]()
+![](dev)
 
 ##  System Architectures Tested
 *  **Sequential State Iterators:** Implements index boundary indicators inside layout loop matrices to advance execution targets step-by-step upon successfully completing tasks.
