@@ -1,16 +1,11 @@
-# React + Vite
+#  DevPipe — Interactive CI/CD Automation Pipeline Studio (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevPipe is a responsive frontend orchestration workbench engineered with React. It models complex network task data graphs, integrating state management variables alongside asynchronous runtime delayed timeout functions to process sequential stage progress levels, rendering visual lifecycle pipelines alongside dynamic diagnostic system tracer blocks live.
 
-Currently, two official plugins are available:
+##  System Architectures Tested
+*  **Sequential State Iterators:** Implements index boundary indicators inside layout loop matrices to advance execution targets step-by-step upon successfully completing tasks.
+*  **Self-Cleaning Async Timers:** Handles dynamic browser timeout instances safely inside standard hooks, avoiding race conditions or ghost thread processes on rapid unmounts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Running Instructions
+1. Download package files: `npm install`
+2. Launch workspace HUD: `npm run dev`
