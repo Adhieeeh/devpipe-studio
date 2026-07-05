@@ -18,3 +18,5 @@ DevPipe is a responsive frontend orchestration workbench engineered with React. 
 
 1. Download package files: `npm install`
 2. Launch workspace HUD: `npm run dev`
+
+-----------------------------------------------------------------------------------------
